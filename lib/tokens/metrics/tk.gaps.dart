@@ -1,7 +1,9 @@
 import 'package:design_system_toolkit/tokens/metrics/tk.spacings.dart';
+import 'package:flutter/widgets.dart';
 import 'package:gap/gap.dart';
 
-abstract final class TkGaps {
+mixin TkGaps {
+  static SizedBox none1 = const SizedBox();
   static const none = Gap(TkSpacings.none);
   static const extraSmall = Gap(TkSpacings.extraSmall);
   static const small = Gap(TkSpacings.small);

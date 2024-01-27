@@ -1,10 +1,13 @@
 library design_system_toolkit;
 
 export 'foundation/metrics/app.aspect_ratio.dart';
+export 'foundation/metrics/app.border_radius.dart';
 export 'foundation/metrics/app.borders.dart';
 export 'foundation/metrics/app.box.shadows.dart';
 export 'foundation/metrics/app.box.sizes.dart';
 export 'foundation/metrics/app.edge_insets.dart';
+export 'foundation/metrics/app.shapes.dart';
+export 'foundation/metrics/app.spacings.dart';
 export 'foundation/theme/app.asset.jpegs.dart';
 export 'foundation/theme/app.asset.jpgs.dart';
 export 'foundation/theme/app.asset.pngs.dart';
