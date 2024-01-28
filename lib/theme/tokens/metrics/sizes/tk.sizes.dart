@@ -1,6 +1,5 @@
-abstract final class TkSizes {
+abstract final class TkCommonSizes {
   static const double x0 = 0;
-  // static const double x2 = 2;
   static const double x4 = 4;
   static const double x8 = 8;
   static const double x12 = 12;
@@ -49,4 +48,12 @@ abstract final class TkSizes {
   static const double x248 = 248;
   static const double x256 = 256;
   static const double x512 = 512;
+}
+
+abstract final class TkCustomSizes {
+  static const double x1 = 1;
+  static const double x2 = 2;
+  static const double x3 = 3;
+  static const double x6 = 6;
+  static const double x9 = 9;
 }

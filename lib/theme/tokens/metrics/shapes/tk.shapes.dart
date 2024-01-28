@@ -1,4 +1,4 @@
-import 'package:design_system_toolkit/tokens/metrics/tk.border_radius.dart';
+import 'package:design_system_toolkit/theme/tokens/metrics/shapes/tk.border_radius.dart';
 import 'package:flutter/widgets.dart';
 
 abstract final class TkShapes {
