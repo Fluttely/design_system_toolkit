@@ -1,4 +1,4 @@
-abstract final class TkTextSizes {
+abstract final class XTextSizeConstants {
   static const double displaySmall = 12.0;
   static const double displayMedium = 14.0;
   static const double displayLarge = 16.0;

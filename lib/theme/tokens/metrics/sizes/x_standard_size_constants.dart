@@ -1,4 +1,5 @@
-abstract final class TkCommonSizes {
+abstract final class XStandardSizeConstants {
+  /// + 4
   static const double x0 = 0;
   static const double x4 = 4;
   static const double x8 = 8;
@@ -31,6 +32,7 @@ abstract final class TkCommonSizes {
   static const double x116 = 116;
   static const double x120 = 120;
   static const double x128 = 128;
+  /// + 8
   static const double x136 = 136;
   static const double x144 = 144;
   static const double x152 = 152;
@@ -47,13 +49,6 @@ abstract final class TkCommonSizes {
   static const double x240 = 240;
   static const double x248 = 248;
   static const double x256 = 256;
+  /// * 2
   static const double x512 = 512;
-}
-
-abstract final class TkCustomSizes {
-  static const double x1 = 1;
-  static const double x2 = 2;
-  static const double x3 = 3;
-  static const double x6 = 6;
-  static const double x9 = 9;
 }
