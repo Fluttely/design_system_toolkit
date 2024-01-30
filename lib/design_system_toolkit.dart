@@ -1,9 +1,9 @@
 library design_system_toolkit;
 
+export 'theme/foundation/assets/app_images_helper.dart';
+export 'theme/foundation/assets/app_sounds_helper.dart';
+export 'theme/foundation/assets/app_svgs_helper.dart';
 export 'theme/foundation/metrics/app.aspect_ratio.dart';
-export 'theme/foundation/metrics/app.asset.jpegs.dart';
-export 'theme/foundation/metrics/app.asset.jpgs.dart';
-export 'theme/foundation/metrics/app.asset.pngs.dart';
 export 'theme/foundation/metrics/app.asset.svgs.dart';
 export 'theme/foundation/metrics/app.border_radius.dart';
 export 'theme/foundation/metrics/app.borders.dart';

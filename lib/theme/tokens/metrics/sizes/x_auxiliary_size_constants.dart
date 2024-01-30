@@ -4,5 +4,4 @@ abstract final class XAuxiliarySizeConstants {
   static const double x2 = 2;
   static const double x3 = 3;
   static const double x6 = 6;
-  static const double x9 = 9;
 }
