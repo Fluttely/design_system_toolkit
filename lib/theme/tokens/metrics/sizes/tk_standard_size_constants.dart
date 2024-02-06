@@ -1,4 +1,4 @@
-abstract final class XStandardSizeConstants {
+abstract final class TkStandardSizeConstants {
   /// + 4
   static const double x0 = 0;
   static const double x4 = 4;

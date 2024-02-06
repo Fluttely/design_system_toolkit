@@ -1,4 +1,4 @@
-abstract final class XAuxiliarySizeConstants {
+abstract final class TkAuxiliarySizeConstants {
   /// Random
   static const double x1 = 1;
   static const double x2 = 2;

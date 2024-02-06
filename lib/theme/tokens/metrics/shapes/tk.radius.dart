@@ -1,14 +1,14 @@
-import 'package:design_system_toolkit/theme/tokens/metrics/sizes/x_spacing_data.dart';
+import 'package:design_system_toolkit/theme/tokens/metrics/sizes/tk_spacing_data.dart';
 import 'package:flutter/widgets.dart';
 
 abstract final class TkRadius {
-  static Radius none = const Radius.circular(XSpacingData.none);
-  static Radius extraSmall = const Radius.circular(XSpacingData.extraSmall);
-  static Radius small = const Radius.circular(XSpacingData.small);
-  static Radius semiSmall = const Radius.circular(XSpacingData.semiSmall);
-  static Radius medium = const Radius.circular(XSpacingData.medium);
-  static Radius semiLarge = const Radius.circular(XSpacingData.semiLarge);
-  static Radius large = const Radius.circular(XSpacingData.large);
-  static Radius extraLarge = const Radius.circular(XSpacingData.extraLarge);
-  static Radius superLarge = const Radius.circular(XSpacingData.superLarge);
+  static Radius none = const Radius.circular(TkSpacingData.none);
+  static Radius extraSmall = const Radius.circular(TkSpacingData.extraSmall);
+  static Radius small = const Radius.circular(TkSpacingData.small);
+  static Radius semiSmall = const Radius.circular(TkSpacingData.semiSmall);
+  static Radius medium = const Radius.circular(TkSpacingData.medium);
+  static Radius semiLarge = const Radius.circular(TkSpacingData.semiLarge);
+  static Radius large = const Radius.circular(TkSpacingData.large);
+  static Radius extraLarge = const Radius.circular(TkSpacingData.extraLarge);
+  static Radius superLarge = const Radius.circular(TkSpacingData.superLarge);
 }
