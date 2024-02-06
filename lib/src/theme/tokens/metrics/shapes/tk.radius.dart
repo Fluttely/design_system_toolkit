@@ -1,4 +1,4 @@
-import 'package:design_system_toolkit/theme/tokens/metrics/sizes/tk_spacing_data.dart';
+import 'package:design_system_toolkit/src/theme/tokens/metrics/sizes/tk_spacing_data.dart';
 import 'package:flutter/widgets.dart';
 
 abstract final class TkRadius {
